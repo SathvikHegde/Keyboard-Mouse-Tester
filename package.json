@@ -1,0 +1,23 @@
+{
+  "name": "keyboard-mouse-tester",
+  "version": "1.0.0",
+  "description": "Software to test Keyboard and Mouse",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SathvikHegde/Keyboard-Mouse-Tester.git"
+  },
+  "author": "SathvikHegde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SathvikHegde/Keyboard-Mouse-Tester/issues"
+  },
+  "homepage": "https://github.com/SathvikHegde/Keyboard-Mouse-Tester#readme",
+  "devDependencies": {
+    "electron": "^24.1.1"
+  }
+}
